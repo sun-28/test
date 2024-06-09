@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "sun-28",
+  "repo": "test",
+  "name": "sun-28",
+  "email": "sunpahwa28@gmail.com",
+}
