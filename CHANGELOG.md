@@ -1,3 +1,15 @@
+# v0.0.2 (Mon Jun 10 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update package.json ([@sun-28](https://github.com/sun-28))
+
+#### Authors: 1
+
+- Sunpreet Singh ([@sun-28](https://github.com/sun-28))
+
+---
+
 # v0.0.1 (Sun Jun 09 2024)
 
 :tada: This release contains work from a new contributor! :tada:
